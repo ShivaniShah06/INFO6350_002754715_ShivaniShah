@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "670016645149",
+    "firebase_url": "https://info6350-final-default-rtdb.firebaseio.com",
+    "project_id": "info6350-final",
+    "storage_bucket": "info6350-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670016645149:android:66f53576cb0e064589fef4",
+        "android_client_info": {
+          "package_name": "com.example.hyper_garage_sale"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSYO7-95rDQdC_xcb_fsxN5Dn2Y3FSNiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

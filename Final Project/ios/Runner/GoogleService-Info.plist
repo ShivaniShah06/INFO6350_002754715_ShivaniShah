@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>27211140087-4ojqsrk3nivfu4d8oevjqnuldl586gat.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.27211140087-4ojqsrk3nivfu4d8oevjqnuldl586gat</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>27211140087-to9riffrffeugjos5qfdchgfpm9v21sl.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCc5HRy14iazpBuWt8hftSlqhg_f05j_DU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>27211140087</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.hyperGarageSale</string>
+	<key>PROJECT_ID</key>
+	<string>hyper-garage-sale-a3238</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hyper-garage-sale-a3238.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:27211140087:ios:b0d63edcd688094049bcf2</string>
+</dict>
+</plist>

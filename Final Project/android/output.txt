@@ -1,0 +1,164 @@
+
+> Configure project :app
+
+> Task :firebase_auth:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Sandra\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 7D:40:4A:7E:D7:AF:60:4D:4A:C0:18:2A:19:0C:B6:B3
+SHA1: 01:6F:42:8A:79:7D:4B:6C:31:8B:28:92:7B:9B:45:B2:01:2D:4C:C9
+SHA-256: B7:0B:26:7B:2D:75:79:05:C0:12:3E:02:51:18:F7:91:60:0C:19:83:B4:14:B5:56:57:FE:88:2B:34:59:84:8D
+Valid until: 2052年6月25日星期二
+----------
+
+> Task :image_picker_android:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Sandra\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 7D:40:4A:7E:D7:AF:60:4D:4A:C0:18:2A:19:0C:B6:B3
+SHA1: 01:6F:42:8A:79:7D:4B:6C:31:8B:28:92:7B:9B:45:B2:01:2D:4C:C9
+SHA-256: B7:0B:26:7B:2D:75:79:05:C0:12:3E:02:51:18:F7:91:60:0C:19:83:B4:14:B5:56:57:FE:88:2B:34:59:84:8D
+Valid until: 2052年6月25日星期二
+----------
+
+> Task :path_provider_android:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Sandra\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 7D:40:4A:7E:D7:AF:60:4D:4A:C0:18:2A:19:0C:B6:B3
+SHA1: 01:6F:42:8A:79:7D:4B:6C:31:8B:28:92:7B:9B:45:B2:01:2D:4C:C9
+SHA-256: B7:0B:26:7B:2D:75:79:05:C0:12:3E:02:51:18:F7:91:60:0C:19:83:B4:14:B5:56:57:FE:88:2B:34:59:84:8D
+Valid until: 2052年6月25日星期二
+----------
+
+> Task :firebase_storage:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Sandra\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 7D:40:4A:7E:D7:AF:60:4D:4A:C0:18:2A:19:0C:B6:B3
+SHA1: 01:6F:42:8A:79:7D:4B:6C:31:8B:28:92:7B:9B:45:B2:01:2D:4C:C9
+SHA-256: B7:0B:26:7B:2D:75:79:05:C0:12:3E:02:51:18:F7:91:60:0C:19:83:B4:14:B5:56:57:FE:88:2B:34:59:84:8D
+Valid until: 2052年6月25日星期二
+----------
+
+> Task :google_sign_in_android:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Sandra\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 7D:40:4A:7E:D7:AF:60:4D:4A:C0:18:2A:19:0C:B6:B3
+SHA1: 01:6F:42:8A:79:7D:4B:6C:31:8B:28:92:7B:9B:45:B2:01:2D:4C:C9
+SHA-256: B7:0B:26:7B:2D:75:79:05:C0:12:3E:02:51:18:F7:91:60:0C:19:83:B4:14:B5:56:57:FE:88:2B:34:59:84:8D
+Valid until: 2052年6月25日星期二
+----------
+
+> Task :firebase_core:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Sandra\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 7D:40:4A:7E:D7:AF:60:4D:4A:C0:18:2A:19:0C:B6:B3
+SHA1: 01:6F:42:8A:79:7D:4B:6C:31:8B:28:92:7B:9B:45:B2:01:2D:4C:C9
+SHA-256: B7:0B:26:7B:2D:75:79:05:C0:12:3E:02:51:18:F7:91:60:0C:19:83:B4:14:B5:56:57:FE:88:2B:34:59:84:8D
+Valid until: 2052年6月25日星期二
+----------
+
+> Task :desktop_webview_auth:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Sandra\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 7D:40:4A:7E:D7:AF:60:4D:4A:C0:18:2A:19:0C:B6:B3
+SHA1: 01:6F:42:8A:79:7D:4B:6C:31:8B:28:92:7B:9B:45:B2:01:2D:4C:C9
+SHA-256: B7:0B:26:7B:2D:75:79:05:C0:12:3E:02:51:18:F7:91:60:0C:19:83:B4:14:B5:56:57:FE:88:2B:34:59:84:8D
+Valid until: 2052年6月25日星期二
+----------
+
+> Task :flutter_plugin_android_lifecycle:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Sandra\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 7D:40:4A:7E:D7:AF:60:4D:4A:C0:18:2A:19:0C:B6:B3
+SHA1: 01:6F:42:8A:79:7D:4B:6C:31:8B:28:92:7B:9B:45:B2:01:2D:4C:C9
+SHA-256: B7:0B:26:7B:2D:75:79:05:C0:12:3E:02:51:18:F7:91:60:0C:19:83:B4:14:B5:56:57:FE:88:2B:34:59:84:8D
+Valid until: 2052年6月25日星期二
+----------
+
+> Task :cloud_firestore:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Sandra\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 7D:40:4A:7E:D7:AF:60:4D:4A:C0:18:2A:19:0C:B6:B3
+SHA1: 01:6F:42:8A:79:7D:4B:6C:31:8B:28:92:7B:9B:45:B2:01:2D:4C:C9
+SHA-256: B7:0B:26:7B:2D:75:79:05:C0:12:3E:02:51:18:F7:91:60:0C:19:83:B4:14:B5:56:57:FE:88:2B:34:59:84:8D
+Valid until: 2052年6月25日星期二
+----------
+
+> Task :camera_android:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Sandra\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 7D:40:4A:7E:D7:AF:60:4D:4A:C0:18:2A:19:0C:B6:B3
+SHA1: 01:6F:42:8A:79:7D:4B:6C:31:8B:28:92:7B:9B:45:B2:01:2D:4C:C9
+SHA-256: B7:0B:26:7B:2D:75:79:05:C0:12:3E:02:51:18:F7:91:60:0C:19:83:B4:14:B5:56:57:FE:88:2B:34:59:84:8D
+Valid until: 2052年6月25日星期二
+----------
+
+> Task :firebase_dynamic_links:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Sandra\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 7D:40:4A:7E:D7:AF:60:4D:4A:C0:18:2A:19:0C:B6:B3
+SHA1: 01:6F:42:8A:79:7D:4B:6C:31:8B:28:92:7B:9B:45:B2:01:2D:4C:C9
+SHA-256: B7:0B:26:7B:2D:75:79:05:C0:12:3E:02:51:18:F7:91:60:0C:19:83:B4:14:B5:56:57:FE:88:2B:34:59:84:8D
+Valid until: 2052年6月25日星期二
+----------
+
+> Task :app:signingReport
+Variant: debug
+Config: debug
+Store: C:\Users\Sandra\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 7D:40:4A:7E:D7:AF:60:4D:4A:C0:18:2A:19:0C:B6:B3
+SHA1: 01:6F:42:8A:79:7D:4B:6C:31:8B:28:92:7B:9B:45:B2:01:2D:4C:C9
+SHA-256: B7:0B:26:7B:2D:75:79:05:C0:12:3E:02:51:18:F7:91:60:0C:19:83:B4:14:B5:56:57:FE:88:2B:34:59:84:8D
+Valid until: 2052年6月25日星期二
+----------
+Variant: release
+Config: debug
+Store: C:\Users\Sandra\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 7D:40:4A:7E:D7:AF:60:4D:4A:C0:18:2A:19:0C:B6:B3
+SHA1: 01:6F:42:8A:79:7D:4B:6C:31:8B:28:92:7B:9B:45:B2:01:2D:4C:C9
+SHA-256: B7:0B:26:7B:2D:75:79:05:C0:12:3E:02:51:18:F7:91:60:0C:19:83:B4:14:B5:56:57:FE:88:2B:34:59:84:8D
+Valid until: 2052年6月25日星期二
+----------
+Variant: profile
+Config: debug
+Store: C:\Users\Sandra\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 7D:40:4A:7E:D7:AF:60:4D:4A:C0:18:2A:19:0C:B6:B3
+SHA1: 01:6F:42:8A:79:7D:4B:6C:31:8B:28:92:7B:9B:45:B2:01:2D:4C:C9
+SHA-256: B7:0B:26:7B:2D:75:79:05:C0:12:3E:02:51:18:F7:91:60:0C:19:83:B4:14:B5:56:57:FE:88:2B:34:59:84:8D
+Valid until: 2052年6月25日星期二
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Sandra\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 7D:40:4A:7E:D7:AF:60:4D:4A:C0:18:2A:19:0C:B6:B3
+SHA1: 01:6F:42:8A:79:7D:4B:6C:31:8B:28:92:7B:9B:45:B2:01:2D:4C:C9
+SHA-256: B7:0B:26:7B:2D:75:79:05:C0:12:3E:02:51:18:F7:91:60:0C:19:83:B4:14:B5:56:57:FE:88:2B:34:59:84:8D
+Valid until: 2052年6月25日星期二
+----------
+
+BUILD SUCCESSFUL in 1s
+12 actionable tasks: 12 executed
